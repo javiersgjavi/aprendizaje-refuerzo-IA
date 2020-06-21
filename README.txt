@@ -38,3 +38,5 @@ gamma -> 0’5
 Nombre del fichero del tablero -> ejemplo
 Caminos intermedios -> 1
 Algoritmo -> 1
+
+*NOTA: Esto también se encuentra explicado de forma más extendida en el documento PDF.
