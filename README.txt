@@ -1,3 +1,6 @@
+*NOTA: Esto también se encuentra explicado de forma más extendida en el documento PDF.
+*NOTA 2: Se ha incluido el documento Q-Learning.tex en la entrega para evidenciar la realización del documento con LaTeX.
+
 Vamos a ejecutar, por ejemplo, el algoritmo Q Leaning fase
 1 sobre el tablero de ejemplo que nos propone el enunciado:
 Primero abrimos el notebook “Trabajo IA”, que es donde
@@ -39,4 +42,5 @@ Nombre del fichero del tablero -> ejemplo
 Caminos intermedios -> 1
 Algoritmo -> 1
 
-*NOTA: Esto también se encuentra explicado de forma más extendida en el documento PDF.
+
+ 
