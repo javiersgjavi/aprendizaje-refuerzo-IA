@@ -46,13 +46,20 @@ Q Learning fase 2 le indicamos un 2 y si queremos ejecutar el algoritmo ”SARSA
 • El valor del parametro epsilon y alpha, ambos entre 0 y 1 (los decimales se indican con un punto no con una coma).
 
 Estos son los valores de los parametros que hay que usar para replicar la prueba 1
-Autogenerar R -> 0
-Casilla de inicio -> 0
-Casilla objetivo -> 6
-Ep`ısodios de entrenamiento -> 20
-gamma -> 0’5
-Nombre del fichero del tablero -> ejemplo
-Caminos intermedios -> 1
-Algoritmo -> 1
+- Autogenerar R -> 0
+
+- Casilla de inicio -> 0
+
+- Casilla objetivo -> 6
+
+- Episodios de entrenamiento -> 20
+
+- gamma -> 0’5
+
+- Nombre del fichero del tablero -> ejemplo
+
+- Caminos intermedios -> 1
+
+- Algoritmo -> 1
 
 *NOTA: Esto tambien se encuentra explicado de forma más extendida en el documento PDF.*
