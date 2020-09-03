@@ -65,4 +65,4 @@ Estos son los valores de los parametros que hay que usar para replicar la prueba
 
 8. Algoritmo -> 1
 
-*NOTA: Esto tambien se encuentra explicado de forma más extendida en el documento PDF.*
+*NOTA: Esto también se encuentra explicado de forma más extendida en el documento PDF.*
