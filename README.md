@@ -3,6 +3,13 @@
 
 Fork del repositorio para el trabajo en grupo de la asignatura de Inteligencia Artificial 2019-2020, por José Manuel Rojas Granado y Javier Solís García.
 
+## ¿En qué consiste el proyecto?:
+
+Este trabajo se basa en aprender a usar algoritmos de aprendizaje por refuerzo, aplicarlos y hacer una investigación sobre sus aplicaciones y sus variaciones.
+
+En este proyecto aplicamos 2 variaciones del algoritmo *"Q-Learning"* y el algoritmo *"SARSA"* para que dado un tablero base, este sea capaz de encontrar el camino óptimo y representarlo en un grafo. El algoritmo también es capaz de aceptar distintos tableros con recompensas intermedias dados por el usuario.
+
+
 ## Contenido:
 
 - Notebook con el código del proyecto: Trabajo.ipynb
