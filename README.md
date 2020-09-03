@@ -49,7 +49,7 @@ Q Learning fase 2 le indicamos un 2 y si queremos ejecutar el algoritmo ”SARSA
 
 Estos son los valores de los parametros que hay que usar para replicar la prueba 1:
 
-1- Autogenerar R -> 0
+1. Autogenerar R -> 0
 
 2. Casilla de inicio -> 0
 
