@@ -3,6 +3,8 @@
 
 Fork del repositorio para el trabajo en grupo de la asignatura de Inteligencia Artificial 2019-2020, por José Manuel Rojas Granado y Javier Solís García.
 
+A este repositorio tienen acceso para contribuir dos cuentas, javiersgjavi, que es mi cuenta personal, y javsolgar, que es mi cuenta para realizar los proyectos de la Universidad de Sevilla.
+
 ## ¿En qué consiste el proyecto?:
 
 Este trabajo se basa en aprender a usar algoritmos de aprendizaje por refuerzo, aplicarlos y hacer una investigación sobre sus aplicaciones y sus variaciones.
